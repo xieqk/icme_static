@@ -1,0 +1,69 @@
+﻿--------------------------------------------------
+--------------------------------------------------
+CALL FOR PAPERS AND PROPOSALS
+IEEE International Conference on Multimedia and Expo
+July 5-9, 2021 || Shenzhen, China
+--------------------------------------------------
+<< ICME 2021 web stie URL TBD>>
+--------------------------------------------------
+
+The IEEE International Conference on Multimedia & Expo (ICME) has been the flagship multimedia conference sponsored by four IEEE societies since 2000. It aims at promoting exchange of the latest advances in multimedia technologies, systems, and applications from both the research and development perspectives. ICME attracts well over 1000 submissions each year, serving as the prime forum for the dissemination of knowledge in the multimedia field. 
+
+ICME 2021 will take place July 5-9, 2021, Shenzhen, China. ICME 2021 will convene leading researchers and practitioners to share the latest developments and advances in the discipline. The conference will showcase high quality oral and poster presentations, as well as relevant Workshops sponsored by IEEE societies. An exposition of multimedia products, animations and industries will be also held in conjunction with the conference. Moreover, in ICME 2021 exceptional papers and contributors will be selected and recognized with prestigious awards.
+
+Topics of interest include, but are not limited to:
+• Artificial Intelligence for multimedia
+• 3D multimedia, AR/VR and Immersive media
+• Emerging multimedia applications and technologies
+• Image/video processing
+• Multimedia analysis and understanding   
+• Multimedia communications, networking and mobility
+• Multimedia databases and data mining
+• Multimedia for society and health
+• Multimedia interaction
+• Multimedia quality assessment and metrics
+• Multimedia security, privacy and forensics
+• Multimedia software, hardware and application systems
+• Multimedia standards, trends and related research
+• Multi-modal media computing and human-machine interaction
+• Social media analysis and applications
+• Speech/audio processing
+
+	
+
+--------------------------------------------------
+IMPORTANT DATES
+--------------------------------------------------
+Submission of papers:
+• Regular paper submission (including special sessions) > November 29, 2020 
+• Submission of papers to workshops and other tracks > March 13, 2021
+• Industry/application track paper submission > March 22, 2021
+
+Submission of proposals:
+• Special session proposals > October 01, 2020
+• Panel proposals > October 04, 2020
+• Grand challenge proposals > October 11, 2020
+• Workshop proposals > November 01, 2020
+• Tutorial proposals > November 01, 2020
+• Open Source Competition > March 01, 2021 
+• Demo proposals > April 02, 2021
+• Industry expo proposals > May 01, 2021
+
+--------------------------------------------------
+CONFERENCE AND JOURNAL PAPERS
+--------------------------------------------------
+All papers presented at ICME 2021 will be included in IEEE Xplore.
+
+<< TBD >>
+The IEEE Transactions on Multimedia is partnering with IEEE ICME. Extended versions of the top-ranked ICME 2021 papers will be invited for submission and potential publication in the IEEE Transactions on Multimedia. We invite authors to submit high-quality contributions aiming at taking part in this call and to have the opportunity to publish an extended ICME paper in this prestigious journal. After the due review process, if your paper is highly ranked, the Technical Program Committee Chairs will get in touch with you regarding the next steps.
+
+
+--------------------------------------------------
+ORGANISATIONAL SPONSORS
+--------------------------------------------------
+IEEE, IEEE Computer Society, IEEE Circuits and Systems Society, IEEE Communications Society, IEEE Signal Processing Society
+
+--------------------------------------------------
+For further information please see << URL TBD >>
+For latest updates please follow on Twitter @ICME2021
+--------------------------------------------------
